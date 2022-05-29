@@ -38,8 +38,9 @@ else:
 # The default naming and path for export file to be saved
 # folderPathWithoutFile needs to be changed 
 # to where you want to save file
+# remove hashtag and update path for folderPathWithoutFile
     
-#folderPathWithoutFile = 'C:\\Users\magdy\Documents\my_Code\openWeb\websiteScheduler\crawlcrawl\\'
+#folderPathWithoutFile = 'C:\\Users\mg\Documents\my_Code\crawlcrawl\\'
 
 name = 'file'
 num = 1
